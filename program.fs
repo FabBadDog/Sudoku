@@ -2,4 +2,6 @@ module Sudoku
 
 open System
 
-"Test"
+[<EntryPoint>]
+let main =
+   Console.WriteLine "Test"
